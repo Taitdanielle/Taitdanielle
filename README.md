@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-(https://www.flaticon.com/authors/vectorspoint)
+[https://www.flaticon.com/authors/vectorspoint]
