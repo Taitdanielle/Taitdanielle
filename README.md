@@ -1,6 +1,6 @@
 ### About me myself and I
 ---
-My names Danielle 
+Hello names Danielle :wave: , 
 
 
 I am from Scotland and slowly but surley a full stack Software Developer in the making! 
