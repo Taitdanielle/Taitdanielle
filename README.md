@@ -1,4 +1,4 @@
-### About me myself and I
+### About me myself and I :nail_care: :woman:
 ---
 Hello names Danielle :wave: , 
 
