@@ -1,5 +1,7 @@
 ### About me myself and I
 ---
+My names Danielle 
+
 
 I am from Scotland and slowly but surley a full stack Software Developer in the making! 
 
@@ -21,7 +23,8 @@ But it is a work progress and I will hopefully have something fab to show soon I
 
 ## Contact
 
-:email: Danielletait@hotmail.co.uk
+:email: 
+ Danielletait@hotmail.co.uk
 
 ## Credits 
 [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats
