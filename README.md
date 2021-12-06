@@ -11,7 +11,9 @@ Unfortunetly real life gets in the way a bit to much at the moment..
 But it is a work progress and I will hopefully have something fab to show soon I promise! 💌 :pray:
 
 
-![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taitdanielle&theme=material-palenight&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taitdanielle&theme=material-palenight&show_icons=true)](https://github.com/Taitdanielle/github-readme-stats)
+![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taitdanielle&theme=material-palenight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taitdanielle&theme=material-palenight&show_icons=true)](https://github.com/Taitdanielle/github-readme-stats)
 
 
 
